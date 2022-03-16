@@ -20,7 +20,6 @@
     └── sample-matrix.yml
 ```
 
-
 - sample-matrix.yml
     - Shows simple matrix usage by providing fixed values
     
